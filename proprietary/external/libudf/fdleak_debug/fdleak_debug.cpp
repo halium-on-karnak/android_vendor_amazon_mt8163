@@ -8,7 +8,7 @@
 
 #include <aee.h>
 #include <pthread.h>
-#include <async_safe/log.h>
+#include <android/log.h>
 #include <sys/uio.h>
 #include <time.h>
 #include <unistd.h>
